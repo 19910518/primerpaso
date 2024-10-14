@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/horoscopeFragment"
+        android:title="primero"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item
+        android:id="@+id/palmistryFragment"
+        android:title="segundo"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item
+        android:id="@+id/luckFragment"
+        android:title="tercero"
+        android:icon="@drawable/ic_launcher_background"
+        />
+
+</menu>
